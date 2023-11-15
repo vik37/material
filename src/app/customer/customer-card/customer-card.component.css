@@ -1,0 +1,22 @@
+.mat-mdc-card{
+  max-width: 300px;
+  margin: auto;
+}
+
+.mat-mdc-card-avatar{
+  background-image: url('/src/assets/img/mr_been.jpg');
+  background-size: cover;
+}
+
+.mat-mdc-card-image{
+  width: 300px;
+  height: auto;
+}
+
+.mat-mdc-card-actions{
+  display: flex;
+}
+
+.mat-mdc-card-actions .flex-spacer{
+  max-width: 100%;
+}

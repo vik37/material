@@ -1,0 +1,9 @@
+.mat-stepper-horizontal{
+  margin: auto;
+  max-width: 800px;
+}
+
+.example-tooltip{
+  font-size: 90% !important;
+  color: blueviolet !important;
+}

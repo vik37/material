@@ -1,0 +1,12 @@
+.mat-mdc-card{
+  width: 600px;
+  margin: auto;
+}
+.mat-mdc-card .full-width{
+  width: 100%;
+}
+
+.mdc-snackbar .mat-mdc-card-actions{
+  display: block;
+  text-align: right;
+}
