@@ -27,7 +27,7 @@ Chapter: 2. Getting Started
 -----------------------------------------------
 Installing Angular Material into our starter project
 -----------------------------------------------            
-- **npm packages**: @angylar/material, @angular/cdk, @angular/animations 
+- **npm packages**: @angylar/material@15.0.0, @angular/cdk@15.0.0, @angular/animations@15.0.x 
 
 
 ***********************************************
